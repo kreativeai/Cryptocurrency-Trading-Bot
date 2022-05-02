@@ -10,10 +10,15 @@ Feed the historial prices into the deep learning model, the trading bot trades t
 ## Deep Learning Model
 !["deep learning model"](https://github.com/kreativeai/Cryptocurrency-Trading-Bot/blob/main/img/02_model.png)
 (1) Load the hourly closing prices of Bitcoin
+
 (2) Convert it to the sequences using the last 100 hours prices with some technical analysis indicators
+
 (3) Feed the sequences into the LSTM model
+
 (4) Predict the future prices for the next two hours
-(5) Use the predicted prices as new indicators (DLI1 & DLI2) in the trading strategy.
+
+(5) Use the predicted prices as new indicators (DLI1 & DLI2) in the trading strategy
+
 
 ## Prediction Result of the Deep Learning Model
 Apply the model to a test data set that the model never seen before for evaluation
