@@ -21,7 +21,9 @@ Input the historial prices into the deep learning model, the trading bot trades 
 
 
 ## Prediction Result of the Deep Learning Model
+
 Apply the model to a test data set that the model never seen before for evaluation
+
 !["prediction result"](https://github.com/kreativeai/Cryptocurrency-Trading-Bot/blob/main/img/03_prediction_test.png)
 !["result evaluation"](https://github.com/kreativeai/Cryptocurrency-Trading-Bot/blob/main/img/04_evaluation_matrix.png)
 
