@@ -5,7 +5,7 @@ This is the final project of my Data Science Bootcamp, a deep learning regressio
 
 ## Architecture of the trading bot
 !["architecture of the trading bot"](https://github.com/kreativeai/Cryptocurrency-Trading-Bot/blob/main/img/01_architecture.jpg)
-Feed the historial prices into the deep learning model, the trading bot trades the Bitcoin according to the prediction of the model.
+Input the historial prices into the deep learning model, the trading bot trades the Bitcoin according to the prediction of the model.
 
 ## Deep Learning Model
 !["deep learning model"](https://github.com/kreativeai/Cryptocurrency-Trading-Bot/blob/main/img/02_model.png)
@@ -13,7 +13,7 @@ Feed the historial prices into the deep learning model, the trading bot trades t
 
 (2) Convert it to the sequences using the last 100 hours prices with some technical analysis indicators
 
-(3) Feed the sequences into the LSTM model
+(3) Pass the sequences into the LSTM model
 
 (4) Predict the future prices for the next two hours
 
