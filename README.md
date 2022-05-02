@@ -56,5 +56,16 @@ Test data Adj. R2 score: 0.9887944918473824
 ## Conclusion
 In this project, a profitable Crypto trading bot is developed to trade the Bitcoin according to the prediction of the deep learning model. It is planned to apply the model to other cryptocurrencies as a further study.
 
+## Tech Stack
+- Recurrent Neural Network (RNN)
+- Long Short-Term Memory (LSTM) 
+- Tensorflow
+- talib/ta
+- sklearn
+- matplotlib/seaborn
+- numpy/pandas
+- yfinance
+- backtrader
+
 ## Warning
 THE MODEL AS WELL AS THE TRADING STRATEGY ARE USED FOR EDUCATIONAL PURPOSE ONLY, DO NOT USE IT IN THE PRODUCTION ENVIRONMENT, YOU LOSE YOUR MONEY!!!
