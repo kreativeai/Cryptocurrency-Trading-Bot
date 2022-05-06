@@ -27,6 +27,27 @@ Apply the model to a test data set that the model never seen before for evaluati
 !["prediction result"](https://github.com/kreativeai/Cryptocurrency-Trading-Bot/blob/main/img/03_prediction_test.png)
 
 
+Train data RMSE:  483.00496357240803 
+Train data MSE:  233293.7948355832 
+Train data MAE:  352.86448464310223 
+
+---------------------------------------
+
+Test data RMSE:  274.8333218903143 
+Test data MSE:  75533.35482126514 
+Test data MAE:  201.08360079225358 
+
+---------------------------------------
+
+Train data R2 score: 0.9971042210015536 
+Test data R2 score: 0.9903749584415457 
+
+---------------------------------------
+
+Train data Adj. R2 score: 0.9970639122738469 
+Test data Adj. R2 score: 0.9887944918473824
+
+
 ## Trading Strategy
 !["trading strategy"](https://github.com/kreativeai/Cryptocurrency-Trading-Bot/blob/main/img/05_trading_strategy.png)
 
